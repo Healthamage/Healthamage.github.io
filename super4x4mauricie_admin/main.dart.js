@@ -75458,7 +75458,7 @@ var $async$ds=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a5(A.HU("http://69.51.223.90:31600/events"),$async$ds)
+return A.a5(A.HU("https://69.51.223.90:31601/events"),$async$ds)
 case 3:q=p.j1(o.amW(c,new A.a02()),!0,t.qC)
 s=1
 break
@@ -75474,7 +75474,7 @@ aco(a){var s=0,r=A.Z(t.y),q,p=2,o,n,m,l
 var $async$wD=A.a_(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.a5(A.qP("http://69.51.223.90:31600/login",a),$async$wD)
+return A.a5(A.qP("https://69.51.223.90:31601/login",a),$async$wD)
 case 7:n=c
 $.ars=n
 q=!0
@@ -75500,28 +75500,28 @@ jH(a){return this.a7G(a)},
 a7G(a){var s=0,r=A.Z(t.z)
 var $async$jH=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:s=2
-return A.a5(A.qP("http://69.51.223.90:31600/races/AddConfig",a),$async$jH)
+return A.a5(A.qP("https://69.51.223.90:31601/races/AddConfig",a),$async$jH)
 case 2:return A.X(null,r)}})
 return A.Y($async$jH,r)},
 va(a){return this.a7F(a)},
 a7F(a){var s=0,r=A.Z(t.z)
 var $async$va=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:s=2
-return A.a5(A.qP("http://69.51.223.90:31600/races/AddResult",a),$async$va)
+return A.a5(A.qP("https://69.51.223.90:31601/races/AddResult",a),$async$va)
 case 2:return A.X(null,r)}})
 return A.Y($async$va,r)},
 jN(a,b){return this.a9A(0,b)},
 a9A(a,b){var s=0,r=A.Z(t.z)
 var $async$jN=A.a_(function(c,d){if(c===1)return A.W(d,r)
 while(true)switch(s){case 0:s=2
-return A.a5(A.a1X("http://69.51.223.90:31600/races/id"),$async$jN)
+return A.a5(A.a1X("https://69.51.223.90:31601/races/id"),$async$jN)
 case 2:return A.X(null,r)}})
 return A.Y($async$jN,r)},
 kj(a){return this.aeO(a)},
 aeO(a){var s=0,r=A.Z(t.z)
 var $async$kj=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:s=2
-return A.a5(A.HV("http://69.51.223.90:31600/races/UpdateConfig",a),$async$kj)
+return A.a5(A.HV("https://69.51.223.90:31601/races/UpdateConfig",a),$async$kj)
 case 2:return A.X(null,r)}})
 return A.Y($async$kj,r)},
 ix(a,b,c,d){return this.QM(0,b,c,d)},
@@ -75530,7 +75530,7 @@ var $async$ix=A.a_(function(e,f){if(e===1)return A.W(f,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a5(A.a1Y("http://69.51.223.90:31600/races/GetAll/"+b+"/"+c+"/"+d.a),$async$ix)
+return A.a5(A.a1Y("https://69.51.223.90:31601/races/GetAll/"+b+"/"+c+"/"+d.a),$async$ix)
 case 3:q=p.j1(o.amW(f,new A.a5n()),!0,t.Dl)
 s=1
 break
@@ -75546,7 +75546,7 @@ var $async$ds=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a5(A.HU("http://69.51.223.90:31600/runners"),$async$ds)
+return A.a5(A.HU("https://69.51.223.90:31601/runners"),$async$ds)
 case 3:q=p.j1(o.amW(c,new A.a73()),!0,t.po)
 s=1
 break
@@ -75557,7 +75557,7 @@ a7v(a,b){var s=0,r=A.Z(t.po),q,p
 var $async$E=A.a_(function(c,d){if(c===1)return A.W(d,r)
 while(true)switch(s){case 0:p=A
 s=3
-return A.a5(A.qP("http://69.51.223.90:31600/runners",b),$async$E)
+return A.a5(A.qP("https://69.51.223.90:31601/runners",b),$async$E)
 case 3:q=p.aoa(d)
 s=1
 break
@@ -75568,7 +75568,7 @@ aeI(a,b){var s=0,r=A.Z(t.po),q,p
 var $async$aS=A.a_(function(c,d){if(c===1)return A.W(d,r)
 while(true)switch(s){case 0:p=A
 s=3
-return A.a5(A.HV("http://69.51.223.90:31600/runners",b),$async$aS)
+return A.a5(A.HV("https://69.51.223.90:31601/runners",b),$async$aS)
 case 3:q=p.aoa(d)
 s=1
 break
