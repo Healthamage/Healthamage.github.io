@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/images/logo_super4x4_mauricie_original.png": "e9b2f47df1905102e0e825483ef80bf4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "f0b4354a6934ba2a5f286c1089a42ccd",
+"assets/NOTICES": "54ff9575cf88bcd8de7b37077690c9f6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -15,10 +15,10 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/LogoSuper4x4-192.png": "a5be4debdf8d03e7c720a148021ffc8e",
-"index.html": "e93dcd2f7eb46636d65c2c44df63138f",
-"/": "e93dcd2f7eb46636d65c2c44df63138f",
+"index.html": "1106b1ad246f4afa000bcf00edf93bbc",
+"/": "1106b1ad246f4afa000bcf00edf93bbc",
 "LogoSuper4x4-16.png": "3afcb397c23a301141929490bc853d93",
-"main.dart.js": "dcccc1d74a16d6e0d542205c839eb112",
+"main.dart.js": "cfadb09b5378cb06a3325ca820b713a7",
 "manifest.json": "207ce7aa649e764d09535355c6ea8680",
 "version.json": "fccd61f95f1fa37ed6ab989bee0fd493"
 };
