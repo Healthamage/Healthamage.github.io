@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "2336e5e7630f6634f51a9a65ceb36ae3",
+"assets/assets/images/logo_super4x4_mauricie_original.png": "e9b2f47df1905102e0e825483ef80bf4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "f0b4354a6934ba2a5f286c1089a42ccd",
@@ -12,16 +13,13 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "299efb2c029f1dc1f3259d04583c6735",
-"/": "299efb2c029f1dc1f3259d04583c6735",
-"main.dart.js": "342b9f4a8b3a7bfe87279f307f116147",
-"manifest.json": "443ee744a31a7ef22b02a76ee7411a6b",
+"icons/LogoSuper4x4-192.png": "a5be4debdf8d03e7c720a148021ffc8e",
+"index.html": "e93dcd2f7eb46636d65c2c44df63138f",
+"/": "e93dcd2f7eb46636d65c2c44df63138f",
+"LogoSuper4x4-16.png": "3afcb397c23a301141929490bc853d93",
+"main.dart.js": "dcccc1d74a16d6e0d542205c839eb112",
+"manifest.json": "207ce7aa649e764d09535355c6ea8680",
 "version.json": "fccd61f95f1fa37ed6ab989bee0fd493"
 };
 
