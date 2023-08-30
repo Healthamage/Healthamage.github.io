@@ -83255,7 +83255,7 @@ var $async$eH=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.A(A.Av("http://69.51.223.90:31601/events"),$async$eH)
+return A.A(A.Av("https://api.super4x4mauricie.ca/events"),$async$eH)
 case 3:q=p.dp(o.a1J(c,new A.a7P()),!0,t.qC)
 s=1
 break
@@ -83271,7 +83271,7 @@ arS(a){var s=0,r=A.G(t.y),q,p=2,o,n,m,l
 var $async$BI=A.H(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.A(A.uH("http://69.51.223.90:31601/login",a),$async$BI)
+return A.A(A.uH("https://api.super4x4mauricie.ca/login",a),$async$BI)
 case 7:n=c
 $.aEB=n
 q=!0
@@ -83297,28 +83297,28 @@ lJ(a){return this.alJ(a)},
 alJ(a){var s=0,r=A.G(t.z)
 var $async$lJ=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:s=2
-return A.A(A.uH("http://69.51.223.90:31601/races/AddConfig",a),$async$lJ)
+return A.A(A.uH("https://api.super4x4mauricie.ca/races/AddConfig",a),$async$lJ)
 case 2:return A.E(null,r)}})
 return A.F($async$lJ,r)},
 A5(a){return this.alI(a)},
 alI(a){var s=0,r=A.G(t.z)
 var $async$A5=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:s=2
-return A.A(A.uH("http://69.51.223.90:31601/races/AddResult",a),$async$A5)
+return A.A(A.uH("https://api.super4x4mauricie.ca/races/AddResult",a),$async$A5)
 case 2:return A.E(null,r)}})
 return A.F($async$A5,r)},
 lP(a,b){return this.ao7(0,b)},
 ao7(a,b){var s=0,r=A.G(t.z)
 var $async$lP=A.H(function(c,d){if(c===1)return A.D(d,r)
 while(true)switch(s){case 0:s=2
-return A.A(A.a9S("http://69.51.223.90:31601/races/"+b),$async$lP)
+return A.A(A.a9S("https://api.super4x4mauricie.ca/races/"+b),$async$lP)
 case 2:return A.E(null,r)}})
 return A.F($async$lP,r)},
 ml(a){return this.auH(a)},
 auH(a){var s=0,r=A.G(t.z)
 var $async$ml=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:s=2
-return A.A(A.Na("http://69.51.223.90:31601/races/UpdateConfig",a),$async$ml)
+return A.A(A.Na("https://api.super4x4mauricie.ca/races/UpdateConfig",a),$async$ml)
 case 2:return A.E(null,r)}})
 return A.F($async$ml,r)},
 jx(a,b,c,d){return this.a_V(0,b,c,d)},
@@ -83327,7 +83327,7 @@ var $async$jx=A.H(function(e,f){if(e===1)return A.D(f,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.A(A.a9T("http://69.51.223.90:31601/races/GetAll/"+b+"/"+c+"/"+d.a),$async$jx)
+return A.A(A.a9T("https://api.super4x4mauricie.ca/races/GetAll/"+b+"/"+c+"/"+d.a),$async$jx)
 case 3:q=p.dp(o.a1J(f,new A.afh()),!0,t.Dl)
 s=1
 break
@@ -83343,7 +83343,7 @@ var $async$eH=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.A(A.Av("http://69.51.223.90:31601/runners"),$async$eH)
+return A.A(A.Av("https://api.super4x4mauricie.ca/runners"),$async$eH)
 case 3:q=p.dp(o.a1J(c,new A.ahe()),!0,t.po)
 s=1
 break
@@ -83354,7 +83354,7 @@ aly(a,b){var s=0,r=A.G(t.po),q,p
 var $async$D=A.H(function(c,d){if(c===1)return A.D(d,r)
 while(true)switch(s){case 0:p=A
 s=3
-return A.A(A.uH("http://69.51.223.90:31601/runners",b),$async$D)
+return A.A(A.uH("https://api.super4x4mauricie.ca/runners",b),$async$D)
 case 3:q=p.aAF(d)
 s=1
 break
@@ -83365,7 +83365,7 @@ auA(a,b){var s=0,r=A.G(t.po),q,p
 var $async$bb=A.H(function(c,d){if(c===1)return A.D(d,r)
 while(true)switch(s){case 0:p=A
 s=3
-return A.A(A.Na("http://69.51.223.90:31601/runners",b),$async$bb)
+return A.A(A.Na("https://api.super4x4mauricie.ca/runners",b),$async$bb)
 case 3:q=p.aAF(d)
 s=1
 break
@@ -83381,7 +83381,7 @@ var $async$xf=A.H(function(b,c){if(b===1)return A.D(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.A(A.Av("http://69.51.223.90:31601/summary/ResultSummary/"+a),$async$xf)
+return A.A(A.Av("https://api.super4x4mauricie.ca/summary/ResultSummary/"+a),$async$xf)
 case 3:q=p.dp(o.a1J(c,new A.ald()),!0,t.Dg)
 s=1
 break

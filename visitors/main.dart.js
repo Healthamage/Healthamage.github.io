@@ -63256,7 +63256,7 @@ var $async$hS=A.a2(function(b,c){if(b===1)return A.Z(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a7(A.tK("http://69.51.223.90:31601/events"),$async$hS)
+return A.a7(A.tK("https://api.super4x4mauricie.ca/events"),$async$hS)
 case 3:q=p.hH(o.acr(c,new A.U7()),!0,t.qC)
 s=1
 break
@@ -63273,7 +63273,7 @@ var $async$kN=A.a2(function(b,c){if(b===1)return A.Z(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a7(A.tK("http://69.51.223.90:31601/summary/ResultSummary/"+a),$async$kN)
+return A.a7(A.tK("https://api.super4x4mauricie.ca/summary/ResultSummary/"+a),$async$kN)
 case 3:q=p.hH(o.acr(c,new A.a3u()),!0,t.Dg)
 s=1
 break
@@ -63285,7 +63285,7 @@ var $async$px=A.a2(function(b,c){if(b===1)return A.Z(c,r)
 while(true)switch(s){case 0:p=A
 o=J
 s=3
-return A.a7(A.tK("http://69.51.223.90:31601/summary/RaceSummary/"+a),$async$px)
+return A.a7(A.tK("https://api.super4x4mauricie.ca/summary/RaceSummary/"+a),$async$px)
 case 3:q=p.hH(o.acr(c,new A.a3t()),!0,t.AG)
 s=1
 break
