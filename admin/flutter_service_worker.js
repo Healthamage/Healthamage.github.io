@@ -15,10 +15,10 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/LogoSuper4x4-192.png": "a5be4debdf8d03e7c720a148021ffc8e",
-"index.html": "789d7a73b1f17aad553438879507f021",
-"/": "789d7a73b1f17aad553438879507f021",
+"index.html": "8a757edd78b5fdd8e43d49686120cff7",
+"/": "8a757edd78b5fdd8e43d49686120cff7",
 "LogoSuper4x4-16.png": "3afcb397c23a301141929490bc853d93",
-"main.dart.js": "db70e0a36e9dd25df35c4717ed090fc0",
+"main.dart.js": "5681067609a6307b5ed5cc47f94e72b3",
 "manifest.json": "207ce7aa649e764d09535355c6ea8680",
 "version.json": "fccd61f95f1fa37ed6ab989bee0fd493"
 };
